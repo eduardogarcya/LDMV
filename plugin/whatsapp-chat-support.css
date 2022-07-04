@@ -96,7 +96,7 @@
     .wcs_fixed_right{
         z-index: 999;
         position: fixed;
-        bottom: 80px;
+        bottom: 20px;
         right: 20px; /* Mover el moton de whatsapp */
     }
 
